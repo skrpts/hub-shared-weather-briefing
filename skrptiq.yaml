@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "755054f2-f014-49a2-a40c-05265435da46"
+id: "892cf322-2f6a-497b-8c4b-fe5e396ccefd"
 name: "weather-briefing"
 display_name: "Generate Briefing"
 description: "Produces a concise, human-readable weather briefing from the analysis"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
